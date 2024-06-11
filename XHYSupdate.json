@@ -2,11 +2,11 @@
   "Code": 0,
   "Msg": "新春快乐",
   "UpdateStatus": 3,//1、默认更新2、强制更新3、使用系统弹窗提示
-  "VersionCode": 240405,
-  "VersionName": "240405",
-  "UploadTime": "2024-06-11 16:53:56",
-  "ModifyContent": "",
-  "DownloadUrl": "https://mirror.ghproxy.com/https://github.com/xisohi/TVBoxOSC/releases/download/2406111653/XHYS_Release.apk",
+  "VersionCode": 240611,
+  "VersionName": "240611",
+  "UploadTime": "2024-06-11 17:03:10",
+  "ModifyContent": "1: 更换源地址\n",
+  "DownloadUrl": "https://mirror.ghproxy.com/https://github.com/xisohi/TVBoxOSC/releases/download/2406111703/XHYS_Release.apk",
   "ApkSize": 25443,
-  "ApkMd5": "b0c6ba721d93c1437c621388dc46243f"
+  "ApkMd5": "6f07ed789c07e9ab82c983f633a3269b"
 }
