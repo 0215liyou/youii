@@ -2,11 +2,11 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 3,//1、默认更新2、强制更新3、使用系统弹窗提示
-  "VersionCode": 241004,
-  "VersionName": "241004",
-  "UploadTime": "2024-10-06 12:38:20",
+  "VersionCode": 241104,
+  "VersionName": "241104",
+  "UploadTime": "2024-11-04 07:55:41",
   "ModifyContent":  "\r\n1、如安卓7.0以下无法更新：设置-配置地址-存储权限。\r\n2、修复部份 已知bug\r\n3、不再支持安卓4.4以下安装",
-  "DownloadUrl": "https://mirror.ghproxy.com/https://github.com/xisohi/TVBoxOSC/releases/download/2410061238/XHYSTV_Release.apk",
-  "ApkSize": 16391,
-  "ApkMd5": "6d722f1ad3cb032c0cfbe7d06791c6a5"
+  "DownloadUrl": "https://mirror.ghproxy.com/https://github.com/xisohi/TVBoxOSC/releases/download/2411040755/XHYSTV_Release.apk",
+  "ApkSize": 18412,
+  "ApkMd5": "f0804213b2ff796e369aa32052670427"
 }
